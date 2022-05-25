@@ -3,5 +3,5 @@ library(gpxhelpers)
 project <- "Bayfield County"
 basedir <- file.path("C:/aaaPersonal/MAPPING",project)
 datfile <- paste0(project,".csv")
-walk <- "FR4138051"
+walk <- "NCTR2"
 walkReports(walk,project,datfile,basedir,showFileInBrowser=TRUE)
