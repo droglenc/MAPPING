@@ -1,5 +1,3 @@
-# Ogle's Mapping Project
+# Bayfield County Walks
 
-## Example Walks
-
-* [Silver Lake trails, May 2022](SILVERLAKE_walk.html)
+* [Silver Lake trail, May 2022](SILVERLAKE1.html)
