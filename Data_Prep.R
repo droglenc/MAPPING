@@ -20,6 +20,7 @@ sanitizeTracks(pin=file.path("Tracks","aaaOriginals"),
 combineTracks2GPX(pin="Tracks",pout="Data",fnm=project)
 ## Write all tracks to a single CSV
 dat <- writeGPXnInfo2CSV(info,file.path("Data",paste0(project,".gpx")))
+#dat <- read.csv(file.path("Data",paste0(project,".csv")))
 
 ## TEST ... Map all tracks
 allTracksMap(dat)
@@ -29,7 +30,7 @@ walks <- readxl::read_excel(fn,sheet="Walks") %>%
   dplyr::filter(Project==project)
 ( walkList <- unique(walks$Walk) )
 
-walkIDs <- walkGetTrackIDs(walks,whichWalk=walkList[8])
+walkIDs <- walkGetTrackIDs(walks,whichWalk=walkList[19])
 awalk <- walkMaker(dat,info,walkIDs,findOrder=FALSE)
 walkMap(awalk)
 walkElevation(awalk)
