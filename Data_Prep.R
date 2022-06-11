@@ -7,7 +7,9 @@ setwd(basedir)
 ## Get track information
 fn <- file.path("Data","Trail Mapping Info.xlsx")
 info <- readxl::read_excel(fn,sheet="Tracks") %>%
-  dplyr::filter(Project==project)
+  dplyr::filter(Project==project) %>%
+  dplyr::mutate(Connected=paste(Start,End,sep=", ")) %>%
+  dplyr::select(-Start,-End)
 
 ## Check if files in the directory match up with those in the info file
 compareFiles2Info(pin=file.path("Tracks","aaaOriginals"),info)
@@ -15,7 +17,7 @@ compareFiles2Info(pin=file.path("Tracks","aaaOriginals"),info)
 ## Sanitize the original gpx files (remove times, update descriptions, etc.)
 ##   that were created after the moddate
 sanitizeTracks(pin=file.path("Tracks","aaaOriginals"),
-               pout="Tracks",trkinfo=info,moddate="2022-05-29")
+               pout="Tracks",trkinfo=info,moddate="2022-06-07")
 ## Combine All Tracks into a single GPX file ... useful for GoogleEarth/Maps
 combineTracks2GPX(pin="Tracks",pout="Data",fnm=project)
 ## Write all tracks to a single CSV
