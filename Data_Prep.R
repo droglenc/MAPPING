@@ -17,7 +17,7 @@ compareFiles2Info(pin=file.path("Tracks","aaaOriginals"),info)
 ## Sanitize the original gpx files (remove times, update descriptions, etc.)
 ##   that were created after the moddate
 sanitizeTracks(pin=file.path("Tracks","aaaOriginals"),
-               pout="Tracks",trkinfo=info,moddate="2022-06-11")
+               pout="Tracks",trkinfo=info,moddate="2022-06-12")
 ## Combine All Tracks into a single GPX file ... useful for GoogleEarth/Maps
 combineTracks2GPX(pin="Tracks",pout="Data",fnm=project)
 ## Write all tracks to a single CSV
@@ -32,7 +32,7 @@ walks <- readxl::read_excel(fn,sheet="Walks") %>%
   dplyr::filter(Project==project)
 ( walkList <- unique(walks$Walk) )
 
-walkIDs <- walkGetTrackIDs(walks,whichWalk=walkList[19])
+walkIDs <- walkGetTrackIDs(walks,whichWalk=walkList[20])
 awalk <- walkMaker(dat,info,walkIDs,findOrder=FALSE)
 walkMap(awalk)
 walkElevation(awalk)
