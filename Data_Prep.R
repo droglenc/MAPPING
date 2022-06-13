@@ -1,6 +1,6 @@
 library(gpxhelpers)
 
-project <- "Bayfield County"
+project <- "Pike Chain Area"
 basedir <- file.path("c:/aaaPersonal/MAPPING",project)
 setwd(basedir)
 
@@ -17,7 +17,7 @@ compareFiles2Info(pin=file.path("Tracks","aaaOriginals"),info)
 ## Sanitize the original gpx files (remove times, update descriptions, etc.)
 ##   that were created after the moddate
 sanitizeTracks(pin=file.path("Tracks","aaaOriginals"),
-               pout="Tracks",trkinfo=info,moddate="2022-06-07")
+               pout="Tracks",trkinfo=info,moddate="2022-06-11")
 ## Combine All Tracks into a single GPX file ... useful for GoogleEarth/Maps
 combineTracks2GPX(pin="Tracks",pout="Data",fnm=project)
 ## Write all tracks to a single CSV
