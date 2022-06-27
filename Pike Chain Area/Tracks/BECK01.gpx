@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <gpx version="1.1"
 creator="Viking 1.10 -- http://viking.sf.net/"
- xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v2" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v2 http://www.garmin.com/xmlschemas/TrackPointExtensionv2.xsd http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd">
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
 <trk>
   <name>BECK01</name>
-  <desc>W Delta Rd to FR413</desc>
+  <desc>W Delta Rd to FR231C</desc>
   <trkseg>
   <trkpt lat="46.44524234178127" lon="-91.38109261396255">
     <ele>396.348</ele>
@@ -1309,58 +1309,6 @@ creator="Viking 1.10 -- http://viking.sf.net/"
   <trkpt lat="46.4331366249449" lon="-91.3850695976624">
     <ele>388.733</ele>
     <time>2022-01-01T00:05:26Z</time>
-  </trkpt>
-  <trkpt lat="46.4331038372485" lon="-91.3850787689704">
-    <ele>388.104</ele>
-    <time>2022-01-01T00:05:27Z</time>
-  </trkpt>
-  <trkpt lat="46.4330537693884" lon="-91.385094149879">
-    <ele>388.878</ele>
-    <time>2022-01-01T00:05:28Z</time>
-  </trkpt>
-  <trkpt lat="46.4330200580442" lon="-91.3851019332365">
-    <ele>388.982</ele>
-    <time>2022-01-01T00:05:29Z</time>
-  </trkpt>
-  <trkpt lat="46.4329798318296" lon="-91.3851077581857">
-    <ele>387.182</ele>
-    <time>2022-01-01T00:05:30Z</time>
-  </trkpt>
-  <trkpt lat="46.4329451952583" lon="-91.38511133439211">
-    <ele>386.675</ele>
-    <time>2022-01-01T00:05:31Z</time>
-  </trkpt>
-  <trkpt lat="46.4329153192043" lon="-91.3851192043245">
-    <ele>386.883</ele>
-    <time>2022-01-01T00:05:32Z</time>
-  </trkpt>
-  <trkpt lat="46.4328766720723" lon="-91.3851319111749">
-    <ele>386.723</ele>
-    <time>2022-01-01T00:05:33Z</time>
-  </trkpt>
-  <trkpt lat="46.4328459708742" lon="-91.3851436540098">
-    <ele>387.577</ele>
-    <time>2022-01-01T00:05:34Z</time>
-  </trkpt>
-  <trkpt lat="46.4328212338651" lon="-91.385146527158">
-    <ele>386.701</ele>
-    <time>2022-01-01T00:05:35Z</time>
-  </trkpt>
-  <trkpt lat="46.4327958165097" lon="-91.385151743891">
-    <ele>386.482</ele>
-    <time>2022-01-01T00:05:36Z</time>
-  </trkpt>
-  <trkpt lat="46.4327793097866" lon="-91.38516495641">
-    <ele>387.035</ele>
-    <time>2022-01-01T00:05:37Z</time>
-  </trkpt>
-  <trkpt lat="46.4327561492536" lon="-91.3851834030984">
-    <ele>389.19</ele>
-    <time>2022-01-01T00:05:38Z</time>
-  </trkpt>
-  <trkpt lat="46.4327423069455" lon="-91.3852024421513">
-    <ele>390.749</ele>
-    <time>2022-01-01T00:05:39Z</time>
   </trkpt>
   </trkseg>
 </trk>
