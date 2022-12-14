@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <gpx version="1.1"
 creator="Viking 1.10 -- http://viking.sf.net/"
- xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v2" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v2 http://www.garmin.com/xmlschemas/TrackPointExtensionv2.xsd http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd">
 <trk>
   <name>CRLN01</name>
   <desc>West Crystal Lake Rd to East Crystal Lake Rd</desc>
   <trkseg>
-  <trkpt lat="46.55746109725988" lon="-91.4747292236083">
+  <trkpt lat="46.5574610972599" lon="-91.4747292236083">
     <ele>343.49</ele>
     <time>2022-01-01T00:00:01Z</time>
   </trkpt>
-  <trkpt lat="46.55744680347807" lon="-91.4747003898614">
+  <trkpt lat="46.5574468034781" lon="-91.4747003898614">
     <ele>342.509</ele>
     <time>2022-01-01T00:00:02Z</time>
   </trkpt>
@@ -566,25 +566,13 @@ creator="Viking 1.10 -- http://viking.sf.net/"
     <ele>349.065</ele>
     <time>2022-01-01T00:02:20Z</time>
   </trkpt>
-  <trkpt lat="46.5567130048619" lon="-91.469239789987">
+  <trkpt lat="46.55671575598024" lon="-91.46923545409776">
     <ele>348.908</ele>
     <time>2022-01-01T00:02:21Z</time>
   </trkpt>
-  <trkpt lat="46.5567167905555" lon="-91.4691988359519">
+  <trkpt lat="46.55672682228332" lon="-91.46919522096253">
     <ele>348.392</ele>
     <time>2022-01-01T00:02:22Z</time>
-  </trkpt>
-  <trkpt lat="46.5567219589621" lon="-91.4691578869347">
-    <ele>349.025</ele>
-    <time>2022-01-01T00:02:23Z</time>
-  </trkpt>
-  <trkpt lat="46.5567220967762" lon="-91.4691268583616">
-    <ele>350.352</ele>
-    <time>2022-01-01T00:02:24Z</time>
-  </trkpt>
-  <trkpt lat="46.556725628097" lon="-91.4690999340593">
-    <ele>349.974</ele>
-    <time>2022-01-01T00:02:25Z</time>
   </trkpt>
   </trkseg>
 </trk>
