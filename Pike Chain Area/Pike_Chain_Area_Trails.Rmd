@@ -14,7 +14,7 @@ dat <- read.csv(file.path("c:/aaaPersonal/MAPPING",project,"Data",
 ```
 
 ```{r fig.width=7, fig.height=7, out.width="100%"}
-allTracksMap(dat)
+allTracksMap(dat,verbose=FALSE)
 ```
 
 #### Notes
