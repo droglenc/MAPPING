@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<gpx version="1.1"
+creator="Viking 1.10 -- http://viking.sf.net/"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<trk>
+  <name>NCTBFX1</name>
+  <desc>Description:</desc>
+  <extensions><gpxx:TrackExtension><gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor></gpxx:TrackExtension></extensions>
+  <trkseg>
+  <trkpt lat="46.51227440792132" lon="-91.51602607833792">
+    <ele>386.258</ele>
+    <time>2022-08-23T16:04:11Z</time>
+  </trkpt>
+  <trkpt lat="46.5122966343456" lon="-91.5160262250959">
+    <ele>385.095</ele>
+    <time>2022-08-23T16:04:14Z</time>
+  </trkpt>
+  <trkpt lat="46.5123398475895" lon="-91.515997604963">
+    <ele>383.487</ele>
+    <time>2022-08-23T16:04:17Z</time>
+  </trkpt>
+  <trkpt lat="46.5123821844566" lon="-91.5159653942773">
+    <ele>382.754</ele>
+    <time>2022-08-23T16:04:20Z</time>
+  </trkpt>
+  <trkpt lat="46.5124095567598" lon="-91.5159495453415">
+    <ele>384.288</ele>
+    <time>2022-08-23T16:04:22Z</time>
+  </trkpt>
+  <trkpt lat="46.5124456459963" lon="-91.515934057595">
+    <ele>383.04</ele>
+    <time>2022-08-23T16:04:25Z</time>
+  </trkpt>
+  <trkpt lat="46.5124812324042" lon="-91.5159367974423">
+    <ele>384.973</ele>
+    <time>2022-08-23T16:04:29Z</time>
+  </trkpt>
+  </trkseg>
+</trk>
+</gpx>

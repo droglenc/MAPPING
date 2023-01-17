@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<gpx version="1.1"
+creator="Viking 1.10 -- http://viking.sf.net/"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<trk>
+  <name>DEAD42</name>
+  <desc>Description:</desc>
+  <extensions><gpxx:TrackExtension><gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor></gpxx:TrackExtension></extensions>
+  <trkseg>
+  <trkpt lat="46.41733339122143" lon="-91.36962324561496">
+    <ele>382.524</ele>
+    <time>2022-09-04T16:54:49Z</time>
+  </trkpt>
+  <trkpt lat="46.4173057840927" lon="-91.3696584944736">
+    <ele>378.27</ele>
+    <time>2022-09-04T16:54:58Z</time>
+  </trkpt>
+  <trkpt lat="46.4172433479138" lon="-91.3697229743766">
+    <ele>384.262</ele>
+    <time>2022-09-04T16:55:01Z</time>
+  </trkpt>
+  <trkpt lat="46.4172089037004" lon="-91.3697476586009">
+    <ele>383.6</ele>
+    <time>2022-09-04T16:55:04Z</time>
+  </trkpt>
+  <trkpt lat="46.4171786113488" lon="-91.3697710642948">
+    <ele>383.879</ele>
+    <time>2022-09-04T16:55:07Z</time>
+  </trkpt>
+  <trkpt lat="46.417143751741" lon="-91.3697897228981">
+    <ele>383.369</ele>
+    <time>2022-09-04T16:55:10Z</time>
+  </trkpt>
+  <trkpt lat="46.4171087265696" lon="-91.369793896649">
+    <ele>383.242</ele>
+    <time>2022-09-04T16:55:13Z</time>
+  </trkpt>
+  <trkpt lat="46.4170771082163" lon="-91.3698044919824">
+    <ele>383.556</ele>
+    <time>2022-09-04T16:55:16Z</time>
+  </trkpt>
+  </trkseg>
+</trk>
+</gpx>
