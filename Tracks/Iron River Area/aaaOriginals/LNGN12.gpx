@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<gpx version="1.1"
+creator="Viking 1.10 -- http://viking.sf.net/"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<trk>
+  <name>LNGN12</name>
+  <desc>Description:</desc>
+  <extensions><gpxx:TrackExtension><gpxx:DisplayColor>DarkCyan</gpxx:DisplayColor></gpxx:TrackExtension></extensions>
+  <trkseg>
+  <trkpt lat="46.5920649697936" lon="-91.3270071366383">
+    <ele>341.392</ele>
+    <time>2023-01-10T17:39:23Z</time>
+  </trkpt>
+  <trkpt lat="46.5920513186027" lon="-91.3269531968671">
+    <ele>341.515</ele>
+    <time>2023-01-10T17:39:26Z</time>
+  </trkpt>
+  <trkpt lat="46.5920308645733" lon="-91.3269082725034">
+    <ele>341.872</ele>
+    <time>2023-01-10T17:39:29Z</time>
+  </trkpt>
+  <trkpt lat="46.5920145638338" lon="-91.3268656732917">
+    <ele>342.684</ele>
+    <time>2023-01-10T17:39:32Z</time>
+  </trkpt>
+  <trkpt lat="46.5920016213066" lon="-91.3268152492898">
+    <ele>342.444</ele>
+    <time>2023-01-10T17:39:35Z</time>
+  </trkpt>
+  <trkpt lat="46.59199429141083" lon="-91.32676818532674">
+    <ele>342.944</ele>
+    <time>2023-01-10T17:39:38Z</time>
+  </trkpt>
+  <trkpt lat="46.5919910588599" lon="-91.3267308830133">
+    <ele>344.423</ele>
+    <time>2023-01-10T17:39:41Z</time>
+  </trkpt>
+  </trkseg>
+</trk>
+</gpx>
