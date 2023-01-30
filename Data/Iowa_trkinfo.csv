@@ -29,3 +29,8 @@
 "Iowa","GRWD42","Grant Wood Tr","Paved","Public","62nd St parking","Waldo's Rock Park",NA,"GRWD41, GRWD43"
 "Iowa","GRWD43","Grant Wood Tr","Paved","Public","Waldo's Rock Park","Hindman Rd",NA,"GRWD42, GRWD44"
 "Iowa","GRWD44","Grant Wood Tr","Paved","Public","Hindman Rd","Oxley Rd",NA,"GRWD43, NA"
+"Iowa","DNGSP01","Dunning Springs Tr","Paved","Public","Ice Cave Rd","Dunning Springs Connector",NA,"NA, DNGSP02, DNGSP03, DNGSC01"
+"Iowa","DNGSP02","Dunning Springs Tr","Trail","Public","Dunning Springs Connector","Dunning Springs",NA,"DNGSP01, DNGSP03, DNGSC01, NA"
+"Iowa","DNGSP03","Dunning Springs Tr","Trail","Public","Dunning Springs Connector","Dunning Springs Overlook",NA,"DNGSP01, DNGSP02, DNGSC01, NA"
+"Iowa","DNGSC01","Dunning Springs Connector","Trail","Public","Dunning Springs Tr","Wold's Peak Tr",NA,"DNGSP01, DNGSP02, DNGSP03, NA"
+"Iowa","SWHVN01","Stairway to Heaven Tr","Trail","Public","Ice Cave Rd","Ice Cave Tr","Will need to be split when more trails are added","NA, NA"
