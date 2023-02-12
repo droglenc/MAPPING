@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<gpx version="1.1"
+creator="Viking 1.10 -- http://viking.sf.net/"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<trk>
+  <name>PRMO01</name>
+  <desc>Description:</desc>
+  <extensions><gpxx:TrackExtension><gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor></gpxx:TrackExtension></extensions>
+  <trkseg>
+  <trkpt lat="46.50261823599983" lon="-91.27765289700669">
+    <ele>350.865</ele>
+    <time>2023-02-12T16:58:27Z</time>
+  </trkpt>
+  <trkpt lat="46.5025798442255" lon="-91.2777026806517">
+    <ele>351.555</ele>
+    <time>2023-02-12T16:58:31Z</time>
+  </trkpt>
+  <trkpt lat="46.502547511651" lon="-91.2777662093497">
+    <ele>352.1</ele>
+    <time>2023-02-12T16:58:34Z</time>
+  </trkpt>
+  <trkpt lat="46.5025078857036" lon="-91.2778291978109">
+    <ele>352.585</ele>
+    <time>2023-02-12T16:58:37Z</time>
+  </trkpt>
+  <trkpt lat="46.502475918491" lon="-91.2778795409268">
+    <ele>352.257</ele>
+    <time>2023-02-12T16:58:40Z</time>
+  </trkpt>
+  <trkpt lat="46.502460275879" lon="-91.2779198647529">
+    <ele>352.23</ele>
+    <time>2023-02-12T16:58:43Z</time>
+  </trkpt>
+  </trkseg>
+</trk>
+</gpx>
