@@ -4,8 +4,8 @@ creator="Viking 1.10 -- http://viking.sf.net/"
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
 <trk>
   <name>PINE06</name>
-  <desc>Description:Hart Lake Rd to Primrose Ln</desc>
-  <extensions><gpxx:TrackExtension><gpxx:DisplayColor>DarkRed</gpxx:DisplayColor></gpxx:TrackExtension></extensions>
+  <desc>Hart Lake Rd to Primrose Ln</desc>
+  <extensions><gpxx:TrackExtension><gpxx:DisplayColor>DarkCyan</gpxx:DisplayColor></gpxx:TrackExtension></extensions>
   <trkseg>
   <trkpt lat="46.5417906814122" lon="-91.3595828546613">
     <ele>367.688</ele>
@@ -1483,7 +1483,7 @@ creator="Viking 1.10 -- http://viking.sf.net/"
     <ele>356.168</ele>
     <time>2022-01-01T00:06:09Z</time>
   </trkpt>
-  <trkpt lat="46.5400241769798" lon="-91.3457410903144">
+  <trkpt lat="46.54004599078268" lon="-91.3456783022753">
     <ele>356.33</ele>
     <time>2022-01-01T00:06:10Z</time>
   </trkpt>
