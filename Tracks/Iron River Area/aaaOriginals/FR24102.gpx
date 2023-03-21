@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<gpx version="1.1"
+creator="Viking 1.10 -- http://viking.sf.net/"
+xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v2" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v2 http://www.garmin.com/xmlschemas/TrackPointExtensionv2.xsd http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd">
+<trk>
+  <name>FR24102</name>
+  <desc>Description:</desc>
+  <extensions><gpxx:TrackExtension><gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor></gpxx:TrackExtension></extensions>
+  <trkseg>
+  <trkpt lat="46.55098312359977" lon="-91.28251550727643">
+    <ele>353.873</ele>
+    <time>2023-03-20T15:36:10Z</time>
+  </trkpt>
+  <trkpt lat="46.551003413963564" lon="-91.28251282506741">
+    <ele>353.984</ele>
+    <time>2023-03-20T15:36:17Z</time>
+  </trkpt>
+  <trkpt lat="46.5510234014042" lon="-91.2825095524244">
+    <ele>354.989</ele>
+    <time>2023-03-20T15:36:20Z</time>
+  </trkpt>
+  <trkpt lat="46.5510639911647" lon="-91.2825000362418">
+    <ele>354.845</ele>
+    <time>2023-03-20T15:36:23Z</time>
+  </trkpt>
+  <trkpt lat="46.5511044775554" lon="-91.2824884245178">
+    <ele>355.125</ele>
+    <time>2023-03-20T15:36:26Z</time>
+  </trkpt>
+  <trkpt lat="46.5511546137854" lon="-91.2824652674917">
+    <ele>355.177</ele>
+    <time>2023-03-20T15:36:29Z</time>
+  </trkpt>
+  <trkpt lat="46.5511941638194" lon="-91.2824481122292">
+    <ele>354.925</ele>
+    <time>2023-03-20T15:36:32Z</time>
+  </trkpt>
+  </trkseg>
+</trk>
+</gpx>
