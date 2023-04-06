@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<gpx version="1.1"
+creator="Viking 1.10 -- http://viking.sf.net/"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<trk>
+  <name>WLLS16</name>
+  <desc>Description:</desc>
+  <extensions><gpxx:TrackExtension><gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor></gpxx:TrackExtension></extensions>
+  <trkseg>
+  <trkpt lat="46.51718774232701" lon="-91.5327607301637">
+    <ele>373.723</ele>
+    <time>2023-04-04T17:01:18Z</time>
+  </trkpt>
+  <trkpt lat="46.5171603141617" lon="-91.5327561337687">
+    <ele>373.361</ele>
+    <time>2023-04-04T17:01:35Z</time>
+  </trkpt>
+  <trkpt lat="46.517109510455" lon="-91.5327564732401">
+    <ele>373.19</ele>
+    <time>2023-04-04T17:01:38Z</time>
+  </trkpt>
+  <trkpt lat="46.5170644840801" lon="-91.5327598949464">
+    <ele>373.425</ele>
+    <time>2023-04-04T17:01:41Z</time>
+  </trkpt>
+  <trkpt lat="46.5170269330074" lon="-91.5327600256033">
+    <ele>373.41</ele>
+    <time>2023-04-04T17:01:44Z</time>
+  </trkpt>
+  <trkpt lat="46.5169835157054" lon="-91.5327624909461">
+    <ele>373.393</ele>
+    <time>2023-04-04T17:01:47Z</time>
+  </trkpt>
+  </trkseg>
+</trk>
+</gpx>
