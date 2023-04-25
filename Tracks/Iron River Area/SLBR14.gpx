@@ -4,7 +4,7 @@ creator="Viking 1.10 -- http://viking.sf.net/"
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
 <trk>
   <name>SLBR14</name>
-  <desc>Holvenstot Rd to McConkey Rd</desc>
+  <desc>Holvenstot Rd to McConkey Rd [West]</desc>
   <trkseg>
   <trkpt lat="46.6067457750457" lon="-91.3448424770346">
     <ele>360.503</ele>
@@ -425,42 +425,6 @@ creator="Viking 1.10 -- http://viking.sf.net/"
   <trkpt lat="46.6063363516419" lon="-91.3386590590878">
     <ele>353.007</ele>
     <time>2023-02-06T00:01:45Z</time>
-  </trkpt>
-  <trkpt lat="46.6063331328801" lon="-91.3385910334572">
-    <ele>353.599</ele>
-    <time>2023-02-06T00:01:46Z</time>
-  </trkpt>
-  <trkpt lat="46.6063284777077" lon="-91.3385269597848">
-    <ele>353.067</ele>
-    <time>2023-02-06T00:01:47Z</time>
-  </trkpt>
-  <trkpt lat="46.6063315468494" lon="-91.3384799219027">
-    <ele>353.056</ele>
-    <time>2023-02-06T00:01:48Z</time>
-  </trkpt>
-  <trkpt lat="46.6063276252585" lon="-91.3384253376719">
-    <ele>352.668</ele>
-    <time>2023-02-06T00:01:49Z</time>
-  </trkpt>
-  <trkpt lat="46.6063287464743" lon="-91.3383618740788">
-    <ele>352.311</ele>
-    <time>2023-02-06T00:01:50Z</time>
-  </trkpt>
-  <trkpt lat="46.6063284553829" lon="-91.3383012990281">
-    <ele>353.027</ele>
-    <time>2023-02-06T00:01:51Z</time>
-  </trkpt>
-  <trkpt lat="46.6063302374476" lon="-91.3382356835402">
-    <ele>352.689</ele>
-    <time>2023-02-06T00:01:52Z</time>
-  </trkpt>
-  <trkpt lat="46.6063351170941" lon="-91.3381742929949">
-    <ele>353.007</ele>
-    <time>2023-02-06T00:01:53Z</time>
-  </trkpt>
-  <trkpt lat="46.6063372530431" lon="-91.3381099898625">
-    <ele>352.854</ele>
-    <time>2023-02-06T00:01:54Z</time>
   </trkpt>
   </trkseg>
 </trk>
