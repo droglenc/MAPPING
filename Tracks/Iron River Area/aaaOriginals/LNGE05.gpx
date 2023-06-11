@@ -4,8 +4,8 @@ creator="Viking 1.10 -- http://viking.sf.net/"
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
 <trk>
   <name>LNGE05</name>
-  <desc>Description:Unnamed trail off of E Long Lake Rd to Tri-Lake Timbers Resort</desc>
-  <extensions><gpxx:TrackExtension><gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor></gpxx:TrackExtension></extensions>
+  <desc>Unnamed trail off of E Long Lake Rd to Tri-Lake Timbers Resort</desc>
+  <extensions><gpxx:TrackExtension><gpxx:DisplayColor>DarkCyan</gpxx:DisplayColor></gpxx:TrackExtension></extensions>
   <trkseg>
   <trkpt lat="46.5735523239194" lon="-91.3360816817615">
     <ele>340.068</ele>
@@ -450,26 +450,6 @@ creator="Viking 1.10 -- http://viking.sf.net/"
   <trkpt lat="46.5776792064903" lon="-91.334577477212">
     <ele>334.808</ele>
     <time>2022-01-01T00:01:51Z</time>
-  </trkpt>
-  <trkpt lat="46.5777220143631" lon="-91.3345536729087">
-    <ele>335.305</ele>
-    <time>2022-01-01T00:01:52Z</time>
-  </trkpt>
-  <trkpt lat="46.5777651879223" lon="-91.3345272842977">
-    <ele>336.209</ele>
-    <time>2022-01-01T00:01:53Z</time>
-  </trkpt>
-  <trkpt lat="46.5777905822887" lon="-91.3345159626795">
-    <ele>336.98</ele>
-    <time>2022-01-01T00:01:54Z</time>
-  </trkpt>
-  <trkpt lat="46.5778191591289" lon="-91.3345052338435">
-    <ele>339.228</ele>
-    <time>2022-01-01T00:01:55Z</time>
-  </trkpt>
-  <trkpt lat="46.5778367359864" lon="-91.3344911310276">
-    <ele>340.126</ele>
-    <time>2022-01-01T00:01:56Z</time>
   </trkpt>
   </trkseg>
 </trk>
