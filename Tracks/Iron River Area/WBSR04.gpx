@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <gpx version="1.1"
 creator="Viking 1.10 -- http://viking.sf.net/"
- xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v2" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v2 http://www.garmin.com/xmlschemas/TrackPointExtensionv2.xsd http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd">
 <trk>
   <name>WBSR04</name>
   <desc>Unnamed trail off Webster Rd to Unnamed trail off Webster Rd</desc>
@@ -413,6 +413,100 @@ creator="Viking 1.10 -- http://viking.sf.net/"
   <trkpt lat="46.4886432475233" lon="-91.4568482899815">
     <ele>388.518</ele>
     <time>2023-02-13T00:01:42Z</time>
+  </trkpt>
+  </trkseg>
+  <trkseg>
+  <trkpt lat="46.4886432475233" lon="-91.4568482899815">
+    <ele>388.518</ele>
+    <time>2023-02-13T00:01:43Z</time>
+  </trkpt>
+  <trkpt lat="46.4886412767829" lon="-91.456914826377">
+    <ele>388.892</ele>
+    <time>2023-02-13T00:01:44Z</time>
+  </trkpt>
+  <trkpt lat="46.4886409053582" lon="-91.4569789981994">
+    <ele>388.75</ele>
+    <time>2023-02-13T00:01:45Z</time>
+  </trkpt>
+  <trkpt lat="46.4886388373249" lon="-91.4570226322479">
+    <ele>388.094</ele>
+    <time>2023-02-13T00:01:46Z</time>
+  </trkpt>
+  <trkpt lat="46.4886414412283" lon="-91.4570657380874">
+    <ele>388.217</ele>
+    <time>2023-02-13T00:01:47Z</time>
+  </trkpt>
+  <trkpt lat="46.4886449081805" lon="-91.4571141802854">
+    <ele>389.076</ele>
+    <time>2023-02-13T00:01:48Z</time>
+  </trkpt>
+  <trkpt lat="46.4886409760192" lon="-91.4571570239019">
+    <ele>388.876</ele>
+    <time>2023-02-13T00:01:49Z</time>
+  </trkpt>
+  <trkpt lat="46.4886409758933" lon="-91.4572018188177">
+    <ele>389.323</ele>
+    <time>2023-02-13T00:01:50Z</time>
+  </trkpt>
+  <trkpt lat="46.4886411603156" lon="-91.4572742783584">
+    <ele>389.427</ele>
+    <time>2023-02-13T00:01:51Z</time>
+  </trkpt>
+  <trkpt lat="46.4886425153191" lon="-91.4573409831728">
+    <ele>389.828</ele>
+    <time>2023-02-13T00:01:52Z</time>
+  </trkpt>
+  <trkpt lat="46.4886458776174" lon="-91.4574055513506">
+    <ele>390.283</ele>
+    <time>2023-02-13T00:01:53Z</time>
+  </trkpt>
+  <trkpt lat="46.4886420535922" lon="-91.4574548095301">
+    <ele>389.088</ele>
+    <time>2023-02-13T00:01:54Z</time>
+  </trkpt>
+  <trkpt lat="46.4886424777403" lon="-91.4574944381583">
+    <ele>389.385</ele>
+    <time>2023-02-13T00:01:55Z</time>
+  </trkpt>
+  <trkpt lat="46.4886432343866" lon="-91.4575645997673">
+    <ele>389.014</ele>
+    <time>2023-02-13T00:01:56Z</time>
+  </trkpt>
+  <trkpt lat="46.4886430831347" lon="-91.4576266295377">
+    <ele>389.164</ele>
+    <time>2023-02-13T00:01:57Z</time>
+  </trkpt>
+  <trkpt lat="46.4886426895466" lon="-91.4576929891778">
+    <ele>389.348</ele>
+    <time>2023-02-13T00:01:58Z</time>
+  </trkpt>
+  <trkpt lat="46.4886443758605" lon="-91.4577675196679">
+    <ele>390.537</ele>
+    <time>2023-02-13T00:01:59Z</time>
+  </trkpt>
+  <trkpt lat="46.4886429736667" lon="-91.4578369220833">
+    <ele>391.127</ele>
+    <time>2023-02-13T00:02:00Z</time>
+  </trkpt>
+  <trkpt lat="46.4886449432179" lon="-91.4579093994814">
+    <ele>392.111</ele>
+    <time>2023-02-13T00:02:01Z</time>
+  </trkpt>
+  <trkpt lat="46.4886433090099" lon="-91.4579781714409">
+    <ele>392.404</ele>
+    <time>2023-02-13T00:02:02Z</time>
+  </trkpt>
+  <trkpt lat="46.4886419088732" lon="-91.458050331857">
+    <ele>392.862</ele>
+    <time>2023-02-13T00:02:03Z</time>
+  </trkpt>
+  <trkpt lat="46.4886428200551" lon="-91.4581235038272">
+    <ele>392.948</ele>
+    <time>2023-02-13T00:02:04Z</time>
+  </trkpt>
+  <trkpt lat="46.4886491403362" lon="-91.4581897885053">
+    <ele>393.02</ele>
+    <time>2023-02-13T00:02:05Z</time>
   </trkpt>
   </trkseg>
 </trk>
