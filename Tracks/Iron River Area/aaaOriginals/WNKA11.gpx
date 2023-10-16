@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<gpx version="1.1"
+creator="Viking 1.10 -- http://viking.sf.net/"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<trk>
+  <name>WNKA11</name>
+  <desc>Description:</desc>
+  <extensions><gpxx:TrackExtension><gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor></gpxx:TrackExtension></extensions>
+  <trkseg>
+  <trkpt lat="46.543539663987744" lon="-91.28309096177315">
+    <ele>344.651</ele>
+    <time>2023-10-15T18:12:59Z</time>
+  </trkpt>
+  <trkpt lat="46.5435553437675" lon="-91.2831059090605">
+    <ele>344.202</ele>
+    <time>2023-10-15T18:12:57Z</time>
+  </trkpt>
+  <trkpt lat="46.5435834750346" lon="-91.2831254921574">
+    <ele>344.486</ele>
+    <time>2023-10-15T18:12:55Z</time>
+  </trkpt>
+  <trkpt lat="46.5436047871979" lon="-91.2831451250272">
+    <ele>345.276</ele>
+    <time>2023-10-15T18:12:53Z</time>
+  </trkpt>
+  <trkpt lat="46.5436329986531" lon="-91.2831630591278">
+    <ele>344.834</ele>
+    <time>2023-10-15T18:12:51Z</time>
+  </trkpt>
+  <trkpt lat="46.5436600959257" lon="-91.2831795132218">
+    <ele>345.188</ele>
+    <time>2023-10-15T18:12:49Z</time>
+  </trkpt>
+  <trkpt lat="46.54369001757364" lon="-91.2831902035067">
+    <ele>344.966</ele>
+    <time>2023-10-15T18:12:46Z</time>
+  </trkpt>
+  </trkseg>
+</trk>
+</gpx>
