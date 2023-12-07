@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<gpx version="1.1"
+creator="Viking 1.10 -- http://viking.sf.net/"
+xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v2" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v2 http://www.garmin.com/xmlschemas/TrackPointExtensionv2.xsd http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd">
+<trk>
+  <name>TRJM06</name>
+  <desc>Description:</desc>
+  <extensions><gpxx:TrackExtension><gpxx:DisplayColor>DarkCyan</gpxx:DisplayColor></gpxx:TrackExtension></extensions>
+  <trkseg>
+  <trkpt lat="46.56786311163318" lon="-91.365146935421">
+    <ele>359.732</ele>
+    <time>2023-12-05T19:19:29Z</time>
+  </trkpt>
+  <trkpt lat="46.567820027591" lon="-91.3651480921621">
+    <ele>361.108</ele>
+    <time>2023-12-05T19:19:35Z</time>
+  </trkpt>
+  <trkpt lat="46.5677874823374" lon="-91.3651477932418">
+    <ele>359.693</ele>
+    <time>2023-12-05T19:19:37Z</time>
+  </trkpt>
+  <trkpt lat="46.5677546906376" lon="-91.3651533898262">
+    <ele>359.092</ele>
+    <time>2023-12-05T19:19:39Z</time>
+  </trkpt>
+  <trkpt lat="46.567729568808" lon="-91.3651574533637">
+    <ele>358.674</ele>
+    <time>2023-12-05T19:19:41Z</time>
+  </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<gpx version="1.1"
+creator="Viking 1.10 -- http://viking.sf.net/"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<trk>
+  <name>DWP22 (Tunnel)</name>
+  <desc>Description:</desc>
+  <extensions><gpxx:TrackExtension><gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor></gpxx:TrackExtension></extensions>
+  <trkseg>
+  <trkpt lat="46.6784063321223" lon="-92.2533399098632">
+    <ele>301.852</ele>
+    <time>2023-11-28T19:15:02Z</time>
+  </trkpt>
+  <trkpt lat="46.678419301373246" lon="-92.25266489507773">
+    <ele>300.716</ele>
+    <time>2023-11-28T19:15:04Z</time>
+  </trkpt>
+  <trkpt lat="46.678535236575634" lon="-92.25209358455756">
+    <ele>324.392</ele>
+    <time>2023-11-28T19:16:55Z</time>
+  </trkpt>
+  <trkpt lat="46.67892352567994" lon="-92.25126075865843">
+    <ele>322.869</ele>
+    <time>2023-11-28T19:16:56Z</time>
+  </trkpt>
+  </trkseg>
+</trk>
+</gpx>

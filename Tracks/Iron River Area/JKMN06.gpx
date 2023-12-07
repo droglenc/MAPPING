@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <gpx version="1.1"
 creator="Viking 1.10 -- http://viking.sf.net/"
- xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v2" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v2 http://www.garmin.com/xmlschemas/TrackPointExtensionv2.xsd http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd">
 <trk>
   <name>JKMN06</name>
-  <desc>Unnamed trail off Jackman Lake Rd to Unnamed trail off Jackman Lake Rd</desc>
+  <desc>Unnamed trail off Jackman Lake Rd to Deadend trail off Jackman Lake Rd</desc>
   <trkseg>
   <trkpt lat="46.5804849421388" lon="-91.3808265936061">
     <ele>346.243</ele>
@@ -593,46 +593,6 @@ creator="Viking 1.10 -- http://viking.sf.net/"
   <trkpt lat="46.5846198851332" lon="-91.37864232275">
     <ele>354.745</ele>
     <time>2023-01-12T00:02:27Z</time>
-  </trkpt>
-  <trkpt lat="46.5846503657514" lon="-91.3786297284403">
-    <ele>354.835</ele>
-    <time>2023-01-12T00:02:28Z</time>
-  </trkpt>
-  <trkpt lat="46.5846809136793" lon="-91.3786113357949">
-    <ele>354.511</ele>
-    <time>2023-01-12T00:02:29Z</time>
-  </trkpt>
-  <trkpt lat="46.5847076147073" lon="-91.3785994420711">
-    <ele>354.916</ele>
-    <time>2023-01-12T00:02:30Z</time>
-  </trkpt>
-  <trkpt lat="46.5847344528947" lon="-91.3785837093084">
-    <ele>354.919</ele>
-    <time>2023-01-12T00:02:31Z</time>
-  </trkpt>
-  <trkpt lat="46.5847549319458" lon="-91.3785706323989">
-    <ele>353.86</ele>
-    <time>2023-01-12T00:02:32Z</time>
-  </trkpt>
-  <trkpt lat="46.5847799705297" lon="-91.3785512093352">
-    <ele>354.395</ele>
-    <time>2023-01-12T00:02:33Z</time>
-  </trkpt>
-  <trkpt lat="46.5848061579546" lon="-91.3785344103528">
-    <ele>354.744</ele>
-    <time>2023-01-12T00:02:34Z</time>
-  </trkpt>
-  <trkpt lat="46.584832600781" lon="-91.3785207111328">
-    <ele>353.648</ele>
-    <time>2023-01-12T00:02:35Z</time>
-  </trkpt>
-  <trkpt lat="46.5848601425578" lon="-91.3785049655982">
-    <ele>353.767</ele>
-    <time>2023-01-12T00:02:36Z</time>
-  </trkpt>
-  <trkpt lat="46.5848889297688" lon="-91.3784968690983">
-    <ele>353.405</ele>
-    <time>2023-01-12T00:02:37Z</time>
   </trkpt>
   </trkseg>
 </trk>
