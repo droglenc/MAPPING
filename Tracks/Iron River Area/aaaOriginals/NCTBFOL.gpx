@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<gpx version="1.1"
+creator="Viking 1.10 -- http://viking.sf.net/"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<trk>
+  <name>NCTBFOL</name>
+  <desc>Description:</desc>
+  <extensions><gpxx:TrackExtension><gpxx:DisplayColor>DarkCyan</gpxx:DisplayColor></gpxx:TrackExtension></extensions>
+  <trkseg>
+  <trkpt lat="46.3688735075628" lon="-91.245838589247">
+    <ele>378.1</ele>
+    <time>2023-12-22T18:34:34Z</time>
+  </trkpt>
+  <trkpt lat="46.3688951782774" lon="-91.2458434658889">
+    <ele>378.397</ele>
+    <time>2023-12-22T18:34:31Z</time>
+  </trkpt>
+  <trkpt lat="46.36891239532577" lon="-91.24585905335447">
+    <ele>378.225</ele>
+    <time>2023-12-22T18:34:29Z</time>
+  </trkpt>
+  <trkpt lat="46.3689242006325" lon="-91.2458760136306">
+    <ele>378.819</ele>
+    <time>2023-12-22T18:34:25Z</time>
+  </trkpt>
+  </trkseg>
+</trk>
+</gpx>
