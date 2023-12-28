@@ -4,7 +4,7 @@ creator="Viking 1.10 -- http://viking.sf.net/"
  xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v2" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v2 http://www.garmin.com/xmlschemas/TrackPointExtensionv2.xsd http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd">
 <trk>
   <name>FR24122</name>
-  <desc>Hahn Rd to McLean Rd / E McLean Rd</desc>
+  <desc>Hahn Rd to Battle Axe Rd</desc>
   <trkseg>
   <trkpt lat="46.64917893242587" lon="-91.32428026426982">
     <ele>350.274</ele>
@@ -654,21 +654,17 @@ creator="Viking 1.10 -- http://viking.sf.net/"
     <ele>343.211</ele>
     <time>2023-11-21T00:02:42Z</time>
   </trkpt>
-  <trkpt lat="46.6539239956088" lon="-91.324313234065">
+  <trkpt lat="46.65392244950126" lon="-91.32431993324471">
     <ele>343.054</ele>
     <time>2023-11-21T00:02:43Z</time>
   </trkpt>
-  <trkpt lat="46.6539494984007" lon="-91.3243107209052">
+  <trkpt lat="46.653944542425705" lon="-91.32432529766274">
     <ele>342.948</ele>
     <time>2023-11-21T00:02:44Z</time>
   </trkpt>
-  <trkpt lat="46.6539755818684" lon="-91.3243097909453">
+  <trkpt lat="46.65396663534112" lon="-91.32432663876725">
     <ele>343.447</ele>
     <time>2023-11-21T00:02:45Z</time>
-  </trkpt>
-  <trkpt lat="46.6539961541788" lon="-91.3243069198223">
-    <ele>343.338</ele>
-    <time>2023-11-21T00:02:46Z</time>
   </trkpt>
   </trkseg>
 </trk>
