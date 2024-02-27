@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <gpx version="1.1"
 creator="Viking 1.10 -- http://viking.sf.net/"
-xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v2" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v2 http://www.garmin.com/xmlschemas/TrackPointExtensionv2.xsd http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd">
+ xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v2" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v2 http://www.garmin.com/xmlschemas/TrackPointExtensionv2.xsd http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd">
 <trk>
   <name>CMP214</name>
   <desc>Description:</desc>
@@ -194,6 +194,52 @@ xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmls
   <trkpt lat="46.5039223432571" lon="-91.4125921557593">
     <ele>370.331</ele>
     <time>2022-06-13T14:41:27Z</time>
+  </trkpt>
+  </trkseg>
+  <trkseg>
+  <trkpt lat="46.5039223432571" lon="-91.4125921557593">
+    <ele>370.331</ele>
+    <time>2022-06-13T14:41:27Z</time>
+  </trkpt>
+  <trkpt lat="46.503928508545" lon="-91.4125493838462">
+    <ele>370.072</ele>
+    <time>2022-06-13T14:41:30Z</time>
+  </trkpt>
+  <trkpt lat="46.5039393180234" lon="-91.4125110652644">
+    <ele>369.021</ele>
+    <time>2022-06-13T14:41:33Z</time>
+  </trkpt>
+  <trkpt lat="46.5039581427705" lon="-91.4124412297003">
+    <ele>368.573</ele>
+    <time>2022-06-13T14:41:36Z</time>
+  </trkpt>
+  <trkpt lat="46.5039863668128" lon="-91.4123633580022">
+    <ele>369.184</ele>
+    <time>2022-06-13T14:41:39Z</time>
+  </trkpt>
+  <trkpt lat="46.5039861207973" lon="-91.4122989327288">
+    <ele>369.502</ele>
+    <time>2022-06-13T14:41:42Z</time>
+  </trkpt>
+  <trkpt lat="46.5039929014597" lon="-91.4122273624198">
+    <ele>370.302</ele>
+    <time>2022-06-13T14:41:45Z</time>
+  </trkpt>
+  <trkpt lat="46.5039703474994" lon="-91.4121463762413">
+    <ele>370.076</ele>
+    <time>2022-06-13T14:41:48Z</time>
+  </trkpt>
+  <trkpt lat="46.5039467315741" lon="-91.4121191777461">
+    <ele>369.81</ele>
+    <time>2022-06-13T14:41:51Z</time>
+  </trkpt>
+  <trkpt lat="46.5039181721787" lon="-91.412061024306">
+    <ele>369.98</ele>
+    <time>2022-06-13T14:41:54Z</time>
+  </trkpt>
+  <trkpt lat="46.5039128248435" lon="-91.4119911061463">
+    <ele>369.554</ele>
+    <time>2022-06-13T14:41:57Z</time>
   </trkpt>
   </trkseg>
 </trk>
