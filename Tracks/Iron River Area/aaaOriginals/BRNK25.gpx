@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<gpx version="1.1"
+creator="Viking 1.10 -- http://viking.sf.net/"
+ xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v2" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v2 http://www.garmin.com/xmlschemas/TrackPointExtensionv2.xsd http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd">
+<trk>
+  <name>BRNK25</name>
+  <desc>at FR407E</desc>
+  <extensions><gpxx:TrackExtension><gpxx:DisplayColor>DarkCyan</gpxx:DisplayColor></gpxx:TrackExtension></extensions>
+  <trkseg>
+  <trkpt lat="46.616502235718" lon="-91.2121356696155">
+    <ele>382.026</ele>
+    <time>2024-01-03T00:00:01Z</time>
+  </trkpt>
+  <trkpt lat="46.6165178009484" lon="-91.2121210563908">
+    <ele>382.116</ele>
+    <time>2024-01-03T00:00:02Z</time>
+  </trkpt>
+  <trkpt lat="46.6165438477492" lon="-91.2121117706671">
+    <ele>381.86</ele>
+    <time>2024-01-03T00:00:03Z</time>
+  </trkpt>
+  <trkpt lat="46.6165700426957" lon="-91.212101535481">
+    <ele>382.282</ele>
+    <time>2024-01-03T00:00:04Z</time>
+  </trkpt>
+  <trkpt lat="46.6165988889213" lon="-91.2120908641232">
+    <ele>382.152</ele>
+    <time>2024-01-03T00:00:05Z</time>
+  </trkpt>
+  <trkpt lat="46.6166253615696" lon="-91.2120785985503">
+    <ele>382.542</ele>
+    <time>2024-01-03T00:00:06Z</time>
+  </trkpt>
+  <trkpt lat="46.6166489908776" lon="-91.2120688114811">
+    <ele>382.733</ele>
+    <time>2024-01-03T00:00:07Z</time>
+  </trkpt>
+  <trkpt lat="46.6166804061036" lon="-91.2120590317284">
+    <ele>383.445</ele>
+    <time>2024-01-03T00:00:08Z</time>
+  </trkpt>
+  <trkpt lat="46.6167070122522" lon="-91.2120466245009">
+    <ele>383.212</ele>
+    <time>2024-01-03T00:00:09Z</time>
+  </trkpt>
+  <trkpt lat="46.6167350362085" lon="-91.2120351218212">
+    <ele>383.451</ele>
+    <time>2024-01-03T00:00:10Z</time>
+  </trkpt>
+  <trkpt lat="46.6167535264835" lon="-91.2120324600998">
+    <ele>384.589</ele>
+    <time>2024-01-03T00:00:11Z</time>
+  </trkpt>
+  </trkseg>
+</trk>
+</gpx>
