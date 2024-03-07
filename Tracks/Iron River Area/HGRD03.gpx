@@ -4,7 +4,7 @@ creator="Viking 1.10 -- http://viking.sf.net/"
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
 <trk>
   <name>HGRD03</name>
-  <desc>Carter Rd to Deadend</desc>
+  <desc>Carter Rd to Unnamed from Carter Rd to Huffgard Rd</desc>
   <trkseg>
   <trkpt lat="46.4968566953363" lon="-91.5313280992605">
     <ele>359.631</ele>
@@ -645,6 +645,120 @@ creator="Viking 1.10 -- http://viking.sf.net/"
   <trkpt lat="46.492094975695956" lon="-91.531419263445">
     <ele>359.018</ele>
     <time>2023-07-26T00:02:40Z</time>
+  </trkpt>
+  </trkseg>
+  <trkseg>
+  <trkpt lat="46.49209647014378" lon="-91.53141959665167">
+    <ele>365.551</ele>
+    <time>2023-07-26T00:02:41Z</time>
+  </trkpt>
+  <trkpt lat="46.49206784815845" lon="-91.53142093775618">
+    <ele>366.355</ele>
+    <time>2023-07-26T00:02:42Z</time>
+  </trkpt>
+  <trkpt lat="46.492047535772635" lon="-91.53142227886069">
+    <ele>366.952</ele>
+    <time>2023-07-26T00:02:43Z</time>
+  </trkpt>
+  <trkpt lat="46.49201891376154" lon="-91.53142764327872">
+    <ele>366.396</ele>
+    <time>2023-07-26T00:02:44Z</time>
+  </trkpt>
+  <trkpt lat="46.4919866458197" lon="-91.531431711009">
+    <ele>365.642</ele>
+    <time>2023-07-26T00:02:45Z</time>
+  </trkpt>
+  <trkpt lat="46.4919593740295" lon="-91.5314407871752">
+    <ele>365.435</ele>
+    <time>2023-07-26T00:02:46Z</time>
+  </trkpt>
+  <trkpt lat="46.4919297510637" lon="-91.5314421213796">
+    <ele>365.322</ele>
+    <time>2023-07-26T00:02:47Z</time>
+  </trkpt>
+  <trkpt lat="46.4918983829258" lon="-91.5314409612452">
+    <ele>365.518</ele>
+    <time>2023-07-26T00:02:48Z</time>
+  </trkpt>
+  <trkpt lat="46.4918645363605" lon="-91.5314395252515">
+    <ele>365.219</ele>
+    <time>2023-07-26T00:02:49Z</time>
+  </trkpt>
+  <trkpt lat="46.49183346585" lon="-91.5314414480038">
+    <ele>365.231</ele>
+    <time>2023-07-26T00:02:50Z</time>
+  </trkpt>
+  <trkpt lat="46.4918027911236" lon="-91.5314484972885">
+    <ele>365.144</ele>
+    <time>2023-07-26T00:02:51Z</time>
+  </trkpt>
+  <trkpt lat="46.4917741872722" lon="-91.5314424699746">
+    <ele>364.962</ele>
+    <time>2023-07-26T00:02:52Z</time>
+  </trkpt>
+  <trkpt lat="46.4917399842922" lon="-91.5314439890573">
+    <ele>364.96</ele>
+    <time>2023-07-26T00:02:53Z</time>
+  </trkpt>
+  <trkpt lat="46.4917145848774" lon="-91.5314435945554">
+    <ele>365.465</ele>
+    <time>2023-07-26T00:02:54Z</time>
+  </trkpt>
+  <trkpt lat="46.4916829027536" lon="-91.5314436922209">
+    <ele>365.382</ele>
+    <time>2023-07-26T00:02:55Z</time>
+  </trkpt>
+  <trkpt lat="46.4916525323997" lon="-91.5314452216887">
+    <ele>365.295</ele>
+    <time>2023-07-26T00:02:56Z</time>
+  </trkpt>
+  <trkpt lat="46.4916269728072" lon="-91.5314481360157">
+    <ele>364.908</ele>
+    <time>2023-07-26T00:02:57Z</time>
+  </trkpt>
+  <trkpt lat="46.4915972959269" lon="-91.5314475378679">
+    <ele>364.612</ele>
+    <time>2023-07-26T00:02:58Z</time>
+  </trkpt>
+  <trkpt lat="46.4915668159613" lon="-91.531447508149">
+    <ele>364.452</ele>
+    <time>2023-07-26T00:02:59Z</time>
+  </trkpt>
+  <trkpt lat="46.4915329136694" lon="-91.5314470931715">
+    <ele>363.57</ele>
+    <time>2023-07-26T00:03:00Z</time>
+  </trkpt>
+  <trkpt lat="46.4915017345557" lon="-91.5314458218112">
+    <ele>364.702</ele>
+    <time>2023-07-26T00:03:01Z</time>
+  </trkpt>
+  <trkpt lat="46.491470570603" lon="-91.5314484487664">
+    <ele>364.707</ele>
+    <time>2023-07-26T00:03:02Z</time>
+  </trkpt>
+  <trkpt lat="46.4914411489372" lon="-91.5314483070284">
+    <ele>365.379</ele>
+    <time>2023-07-26T00:03:03Z</time>
+  </trkpt>
+  <trkpt lat="46.4914111615113" lon="-91.5314544557191">
+    <ele>366.055</ele>
+    <time>2023-07-26T00:03:04Z</time>
+  </trkpt>
+  <trkpt lat="46.4913793780863" lon="-91.5314540157029">
+    <ele>366.275</ele>
+    <time>2023-07-26T00:03:05Z</time>
+  </trkpt>
+  <trkpt lat="46.4913466028102" lon="-91.5314556080449">
+    <ele>366.126</ele>
+    <time>2023-07-26T00:03:06Z</time>
+  </trkpt>
+  <trkpt lat="46.4913185903905" lon="-91.531457396993">
+    <ele>366.558</ele>
+    <time>2023-07-26T00:03:07Z</time>
+  </trkpt>
+  <trkpt lat="46.4912904370911" lon="-91.5314574781964">
+    <ele>366.095</ele>
+    <time>2023-07-26T00:03:08Z</time>
   </trkpt>
   </trkseg>
 </trk>

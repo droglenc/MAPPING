@@ -38,9 +38,8 @@ dataPrepHelper <- function(project,basedir=here::here(),verbose=TRUE) {
     
     ## Remove files from pout that are not listed in the info file
     if (length(tmp$trks_rmvd)>0) {
-      file.remove(paste0(file.path(pout,junk),".gpx"))
-      cat("\n")
-      cli::cli_alert_info("Files not in info file but in {pin} were removed: {paste(tmp$trks_rmved,collapse=', ')}")
+      file.remove(paste0(file.path(p_trks_sntzd,tmp$trks_rmvd),".gpx"))
+      cli::cli_alert_info("Files not in info file but in {p_trks_sntzd} were removed: {paste(tmp$trks_rmved,collapse=', ')}")
     }
     
     ## Sanitize new and modified tracks
