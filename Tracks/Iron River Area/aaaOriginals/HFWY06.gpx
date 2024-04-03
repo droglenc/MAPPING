@@ -7,11 +7,25 @@ creator="Viking 1.10 -- http://viking.sf.net/"
   <desc>Description:</desc>
   <extensions><gpxx:TrackExtension><gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor></gpxx:TrackExtension></extensions>
   <trkseg>
+  <trkpt lat="46.4453551420725" lon="-91.4688906203931">
+    <ele>386.054</ele>
+    <time>2023-04-02T18:00:25Z</time>
+  </trkpt>
+  <trkpt lat="46.445353364421315" lon="-91.46893078305848">
+    <ele>386.373</ele>
+    <time>2023-04-02T18:00:28Z</time>
+  </trkpt>
   <trkpt lat="46.4453527454147" lon="-91.4689712536826">
     <ele>386.771</ele>
     <time>2023-04-02T18:00:31Z</time>
   </trkpt>
-  <trkpt lat="46.445355688804" lon="-91.4690036625067">
+  </trkseg>
+  <trkseg>
+  <trkpt lat="46.4453527454147" lon="-91.4689712536826">
+    <ele>386.771</ele>
+    <time>2023-04-02T18:00:31Z</time>
+  </trkpt>
+  <trkpt lat="46.44534966808988" lon="-91.46902734258302">
     <ele>387.942</ele>
     <time>2023-04-02T18:00:49Z</time>
   </trkpt>
@@ -35,7 +49,7 @@ creator="Viking 1.10 -- http://viking.sf.net/"
     <ele>387.542</ele>
     <time>2023-04-02T18:01:04Z</time>
   </trkpt>
-  <trkpt lat="46.445341823078" lon="-91.4693873241811">
+  <trkpt lat="46.44534597175819" lon="-91.46938809969552">
     <ele>386.274</ele>
     <time>2023-04-02T18:01:07Z</time>
   </trkpt>
