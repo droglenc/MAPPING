@@ -54,17 +54,13 @@ dataPrepHelper <- function(project,basedir=here::here(),verbose=TRUE) {
   cat("\n")
   cli::cli_h1("Create Master GPX File")
   gpxhelpers::makeMasterGPX(tmp,pin=p_trks_sntzd,pout=p_data,fnm=project)
-  #OLD gpxhelpers::combineTracks2GPX(pin=p_trks_sntzd,pout=p_data,fnm=project)
-  
+
   ## Write all tracks to a single CSV
   cat("\n")
   cli::cli_h1("Create Master CSV File")
   dat <- gpxhelpers::makeMasterCSV(tmp,pin=p_trks_sntzd,pout=p_data,
                                    fnm=paste0(project,"_trkdat"))
-  #OLD dat <- gpxhelpers::writeGPXnInfo2CSV(trkinfo=df_info,
-  #OLD                                      pin=p_trks_sntzd,pout=p_data,
-  #OLD                                      fnm=paste0(project,"_trkdat"))
-  
+
   ## Send completion message
     cat("\n")
     cli::cli_alert_success("Data preparation for {project} project is complete!")
