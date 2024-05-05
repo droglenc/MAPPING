@@ -7,7 +7,17 @@ creator="Viking 1.10 -- http://viking.sf.net/"
   <desc>Description:</desc>
   <extensions><gpxx:TrackExtension><gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor></gpxx:TrackExtension></extensions>
   <trkseg>
-  <trkpt lat="46.445506829203" lon="-91.4584621330887">
+  <trkpt lat="46.4455129806013" lon="-91.4584340156426">
+    <ele>388.252</ele>
+    <time>2023-04-02T17:51:35Z</time>
+  </trkpt>
+  <trkpt lat="46.44550885397509" lon="-91.45846404476985">
+    <ele>388.784</ele>
+    <time>2023-04-02T17:51:37Z</time>
+  </trkpt>
+  </trkseg>
+  <trkseg>
+  <trkpt lat="46.44550908499514" lon="-91.45846370949373">
     <ele>388.784</ele>
     <time>2023-04-02T17:51:37Z</time>
   </trkpt>
