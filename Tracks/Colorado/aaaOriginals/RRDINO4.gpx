@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<gpx version="1.1"
+creator="Viking 1.10 -- http://viking.sf.net/"
+xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v2" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v2 http://www.garmin.com/xmlschemas/TrackPointExtensionv2.xsd http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd">
+<trk>
+  <name>RRDINO4</name>
+  <desc>Description:</desc>
+  <extensions><gpxx:TrackExtension><gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor></gpxx:TrackExtension></extensions>
+  <trkseg>
+  <trkpt lat="39.6761702060847" lon="-105.193151556663">
+    <ele>1878.57</ele>
+    <time>2024-09-07T18:26:12Z</time>
+  </trkpt>
+  <trkpt lat="39.676145839711396" lon="-105.1931521018084">
+    <ele>1879.49</ele>
+    <time>2024-09-07T18:26:39Z</time>
+  </trkpt>
+  <trkpt lat="39.676127260076925" lon="-105.19316685395798">
+    <ele>1879.39</ele>
+    <time>2024-09-07T18:26:42Z</time>
+  </trkpt>
+  <trkpt lat="39.6761107448421" lon="-105.19317892389854">
+    <ele>1879.19</ele>
+    <time>2024-09-07T18:26:44Z</time>
+  </trkpt>
+  <trkpt lat="39.6760970846251" lon="-105.193191386015">
+    <ele>1878.67</ele>
+    <time>2024-09-07T18:26:47Z</time>
+  </trkpt>
+  <trkpt lat="39.6760761236343" lon="-105.193211180406">
+    <ele>1878.6</ele>
+    <time>2024-09-07T18:26:49Z</time>
+  </trkpt>
+  <trkpt lat="39.6760653800786" lon="-105.19323660993">
+    <ele>1877.73</ele>
+    <time>2024-09-07T18:26:52Z</time>
+  </trkpt>
+  <trkpt lat="39.6760497612742" lon="-105.193269932704">
+    <ele>1877.81</ele>
+    <time>2024-09-07T18:26:55Z</time>
+  </trkpt>
+  <trkpt lat="39.6760357787573" lon="-105.193291660368">
+    <ele>1877.75</ele>
+    <time>2024-09-07T18:26:57Z</time>
+  </trkpt>
+  <trkpt lat="39.67601991097969" lon="-105.19330096440872">
+    <ele>1877.57</ele>
+    <time>2024-09-07T18:27:00Z</time>
+  </trkpt>
+  </trkseg>
+</trk>
+</gpx>
