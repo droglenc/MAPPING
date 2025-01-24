@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<gpx version="1.1"
+creator="Viking 1.10 -- http://viking.sf.net/"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<trk>
+  <name>MNTGCH09</name>
+  <desc>Description:</desc>
+  <extensions><gpxx:TrackExtension><gpxx:DisplayColor>DarkCyan</gpxx:DisplayColor></gpxx:TrackExtension></extensions>
+  <trkseg>
+  <trkpt lat="47.336498820399" lon="-91.197291084031">
+    <ele>187.55</ele>
+    <time>2023-01-14T21:21:52Z</time>
+  </trkpt>
+  <trkpt lat="47.336482792477454" lon="-91.19727396282006">
+    <ele>187.103</ele>
+    <time>2023-01-14T21:21:59Z</time>
+  </trkpt>
+  <trkpt lat="47.336470977358125" lon="-91.19725518735696">
+    <ele>187.096</ele>
+    <time>2023-01-14T21:22:10Z</time>
+  </trkpt>
+  <trkpt lat="47.33645734452484" lon="-91.19723372968484">
+    <ele>185.624</ele>
+    <time>2023-01-14T21:22:15Z</time>
+  </trkpt>
+  <trkpt lat="47.33644643825568" lon="-91.19721763643075">
+    <ele>185.097</ele>
+    <time>2023-01-14T21:22:18Z</time>
+  </trkpt>
+  <trkpt lat="47.33643553198426" lon="-91.19719483765412">
+    <ele>185.088</ele>
+    <time>2023-01-14T21:22:28Z</time>
+  </trkpt>
+  </trkseg>
+</trk>
+</gpx>
