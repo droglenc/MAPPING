@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<gpx version="1.1"
+creator="Viking 1.10 -- http://viking.sf.net/"
+ xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v2" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v2 http://www.garmin.com/xmlschemas/TrackPointExtensionv2.xsd http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd">
+<trk>
+  <name>MNGSBRY02</name>
+  <desc>Description:</desc>
+  <extensions><gpxx:TrackExtension><gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor></gpxx:TrackExtension></extensions>
+  <trkseg>
+  <trkpt lat="47.142570594187035" lon="-91.46796193104385">
+    <ele>198.53</ele>
+    <time>2023-01-14T17:53:08Z</time>
+  </trkpt>
+  <trkpt lat="47.1425571797247" lon="-91.4679515295273">
+    <ele>198.022</ele>
+    <time>2023-01-14T17:53:11Z</time>
+  </trkpt>
+  <trkpt lat="47.1425396825907" lon="-91.4679320345298">
+    <ele>198.552</ele>
+    <time>2023-01-14T17:53:15Z</time>
+  </trkpt>
+  <trkpt lat="47.1425201542715" lon="-91.4679156483085">
+    <ele>198.147</ele>
+    <time>2023-01-14T17:53:18Z</time>
+  </trkpt>
+  <trkpt lat="47.1424948286013" lon="-91.4678816513317">
+    <ele>197.443</ele>
+    <time>2023-01-14T17:53:21Z</time>
+  </trkpt>
+  <trkpt lat="47.1424733671574" lon="-91.4678498915251">
+    <ele>196.849</ele>
+    <time>2023-01-14T17:53:24Z</time>
+  </trkpt>
+  <trkpt lat="47.1424630050235" lon="-91.4678265108881">
+    <ele>196.637</ele>
+    <time>2023-01-14T17:53:28Z</time>
+  </trkpt>
+  <trkpt lat="47.1424465907939" lon="-91.467798855786">
+    <ele>197.525</ele>
+    <time>2023-01-14T17:53:32Z</time>
+  </trkpt>
+  <trkpt lat="47.1424395584319" lon="-91.4677718546913">
+    <ele>196.767</ele>
+    <time>2023-01-14T17:53:43Z</time>
+  </trkpt>
+  <trkpt lat="47.14243310465591" lon="-91.46774936475923">
+    <ele>193.948</ele>
+    <time>2023-01-14T17:53:50Z</time>
+  </trkpt>
+  <trkpt lat="47.142434398786" lon="-91.4677202129968">
+    <ele>194.483</ele>
+    <time>2023-01-14T17:53:52Z</time>
+  </trkpt>
+  <trkpt lat="47.14243285367236" lon="-91.46770309787391">
+    <ele>194.652</ele>
+    <time>2023-01-14T17:53:58Z</time>
+  </trkpt>
+  <trkpt lat="47.142428292722144" lon="-91.46767493467925">
+    <ele>194.899</ele>
+    <time>2023-01-14T17:54:01Z</time>
+  </trkpt>
+  </trkseg>
+</trk>
+</gpx>

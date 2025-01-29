@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<gpx version="1.1"
+creator="Viking 1.10 -- http://viking.sf.net/"
+ xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v2" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v2 http://www.garmin.com/xmlschemas/TrackPointExtensionv2.xsd http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd">
+<trk>
+  <name>MNGSBRY11</name>
+  <desc>Description:</desc>
+  <extensions><gpxx:TrackExtension><gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor></gpxx:TrackExtension></extensions>
+  <trkseg>
+  <trkpt lat="47.14207527399072" lon="-91.45705003421901">
+    <ele>179.765</ele>
+    <time>2023-01-14T18:26:39Z</time>
+  </trkpt>
+  <trkpt lat="47.14206250324323" lon="-91.45703259986041">
+    <ele>180.024</ele>
+    <time>2023-01-14T18:26:41Z</time>
+  </trkpt>
+  <trkpt lat="47.1420502193808" lon="-91.4570172852085">
+    <ele>180.345</ele>
+    <time>2023-01-14T18:26:43Z</time>
+  </trkpt>
+  <trkpt lat="47.14203285685327" lon="-91.45699303727744">
+    <ele>180.845</ele>
+    <time>2023-01-14T18:26:45Z</time>
+  </trkpt>
+  <trkpt lat="47.1420110147733" lon="-91.4569760274144">
+    <ele>181.086</ele>
+    <time>2023-01-14T18:26:47Z</time>
+  </trkpt>
+  <trkpt lat="47.141998193361" lon="-91.45697359126208">
+    <ele>181.448</ele>
+    <time>2023-01-14T18:26:49Z</time>
+  </trkpt>
+  </trkseg>
+</trk>
+</gpx>
