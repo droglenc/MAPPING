@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <gpx version="1.1"
 creator="Viking 1.10 -- http://viking.sf.net/"
- xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v2" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v2 http://www.garmin.com/xmlschemas/TrackPointExtensionv2.xsd http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd">
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
 <trk>
   <name>EBLK01</name>
-  <desc>Cty Rd H to end of E Bass Rd</desc>
+  <desc>at Cty Rd H</desc>
   <trkseg>
   <trkpt lat="46.5134535357789" lon="-91.3739343267785">
     <ele>350.126</ele>
@@ -374,11 +374,11 @@ creator="Viking 1.10 -- http://viking.sf.net/"
     <ele>373.709</ele>
     <time>2022-03-02T00:01:32Z</time>
   </trkpt>
-  <trkpt lat="46.5110444406598" lon="-91.37623531786829">
+  <trkpt lat="46.51104638061982" lon="-91.376224262725">
     <ele>373.841</ele>
     <time>2022-03-02T00:01:33Z</time>
   </trkpt>
-  <trkpt lat="46.5110233078488" lon="-91.3762286083342">
+  <trkpt lat="46.511026075323194" lon="-91.37621889830697">
     <ele>373.428</ele>
     <time>2022-03-02T00:01:34Z</time>
   </trkpt>
@@ -406,7 +406,7 @@ creator="Viking 1.10 -- http://viking.sf.net/"
     <ele>371.806</ele>
     <time>2022-03-02T00:01:40Z</time>
   </trkpt>
-  <trkpt lat="46.5108357302248" lon="-91.3761555828675">
+  <trkpt lat="46.5108396354271" lon="-91.3761505019771">
     <ele>370.892</ele>
     <time>2022-03-02T00:01:41Z</time>
   </trkpt>
