@@ -4,7 +4,7 @@ creator="Viking 1.10 -- http://viking.sf.net/"
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
 <trk>
   <name>NCTBF014</name>
-  <desc>at Deadend off Pero Rd</desc>
+  <desc>Unnamed off Pero Rd to Unnamed off Pero Rd</desc>
   <trkseg>
   <trkpt lat="46.51311810954951" lon="-91.48855643140612">
     <ele>373.992</ele>
@@ -177,6 +177,16 @@ creator="Viking 1.10 -- http://viking.sf.net/"
   <trkpt lat="46.5117229035081" lon="-91.4876392825583">
     <ele>367.154</ele>
     <time>2022-08-14T00:00:43Z</time>
+  </trkpt>
+  </trkseg>
+  <trkseg>
+  <trkpt lat="46.5117229035081" lon="-91.4876392825583">
+    <ele>367.154</ele>
+    <time>2022-08-14T00:00:44Z</time>
+  </trkpt>
+  <trkpt lat="46.5116759810368" lon="-91.4876262619924">
+    <ele>366.605</ele>
+    <time>2022-08-14T00:00:45Z</time>
   </trkpt>
   </trkseg>
 </trk>
