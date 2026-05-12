@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<gpx version="1.1"
+creator="Viking 1.10 -- http://viking.sf.net/"
+xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v2" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v2 http://www.garmin.com/xmlschemas/TrackPointExtensionv2.xsd http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd">
+<trk>
+  <name>BNTNTR01</name>
+  <desc>Description:</desc>
+  <extensions><gpxx:TrackExtension><gpxx:DisplayColor>DarkGreen</gpxx:DisplayColor></gpxx:TrackExtension></extensions>
+  <trkseg>
+  <trkpt lat="21.704065247208" lon="-157.997717473122">
+    <ele>18.4277</ele>
+    <time>2026-04-09T20:18:45Z</time>
+  </trkpt>
+  <trkpt lat="21.7040449146085" lon="-157.997712894014">
+    <ele>18.3672</ele>
+    <time>2026-04-09T20:18:50Z</time>
+  </trkpt>
+  <trkpt lat="21.7040254054961" lon="-157.997714301564">
+    <ele>17.8808</ele>
+    <time>2026-04-09T20:18:52Z</time>
+  </trkpt>
+  <trkpt lat="21.7040020631223" lon="-157.997714172598">
+    <ele>17.2822</ele>
+    <time>2026-04-09T20:18:54Z</time>
+  </trkpt>
+  <trkpt lat="21.703976409725477" lon="-157.99771525872058">
+    <ele>17.2326</ele>
+    <time>2026-04-09T20:18:56Z</time>
+  </trkpt>
+  <trkpt lat="21.7039498545437" lon="-157.997717820783">
+    <ele>17.9808</ele>
+    <time>2026-04-09T20:18:59Z</time>
+  </trkpt>
+  <trkpt lat="21.703930306627974" lon="-157.9977206231386">
+    <ele>18.3946</ele>
+    <time>2026-04-09T20:19:01Z</time>
+  </trkpt>
+  <trkpt lat="21.7039091156107" lon="-157.9977214619">
+    <ele>17.7594</ele>
+    <time>2026-04-09T20:19:03Z</time>
+  </trkpt>
+  <trkpt lat="21.7038852220326" lon="-157.997721654446">
+    <ele>17.471</ele>
+    <time>2026-04-09T20:19:05Z</time>
+  </trkpt>
+  <trkpt lat="21.703861151954037" lon="-157.99772263479537">
+    <ele>18.2259</ele>
+    <time>2026-04-09T20:19:07Z</time>
+  </trkpt>
+  <trkpt lat="21.7038325293852" lon="-157.997717329995">
+    <ele>18.0035</ele>
+    <time>2026-04-09T20:19:09Z</time>
+  </trkpt>
+  <trkpt lat="21.703803392447" lon="-157.997714867382">
+    <ele>18.0325</ele>
+    <time>2026-04-09T20:19:11Z</time>
+  </trkpt>
+  </trkseg>
+</trk>
+</gpx>
