@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<gpx version="1.1"
+creator="Viking 1.10 -- http://viking.sf.net/"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<trk>
+  <name>ISLD06</name>
+  <desc>Description:</desc>
+  <extensions><gpxx:TrackExtension><gpxx:DisplayColor>Red</gpxx:DisplayColor></gpxx:TrackExtension></extensions>
+  <trkseg>
+  <trkpt lat="46.388559845084714" lon="-91.52007402657925">
+    <ele>363.2</ele>
+    <time>2026-03-30T16:39:51Z</time>
+  </trkpt>
+  <trkpt lat="46.388559845084714" lon="-91.52011291860997">
+    <ele>363.588</ele>
+    <time>2026-03-30T16:39:49Z</time>
+  </trkpt>
+  <trkpt lat="46.3885595299107" lon="-91.5201558287665">
+    <ele>363.005</ele>
+    <time>2026-03-30T16:39:47Z</time>
+  </trkpt>
+  <trkpt lat="46.3885571116089" lon="-91.5201926356749">
+    <ele>363.251</ele>
+    <time>2026-03-30T16:39:44Z</time>
+  </trkpt>
+  <trkpt lat="46.3885581698077" lon="-91.5202329358187">
+    <ele>363.015</ele>
+    <time>2026-03-30T16:39:42Z</time>
+  </trkpt>
+  <trkpt lat="46.3885598226191" lon="-91.5202788054612">
+    <ele>362.991</ele>
+    <time>2026-03-30T16:39:38Z</time>
+  </trkpt>
+  </trkseg>
+</trk>
+</gpx>

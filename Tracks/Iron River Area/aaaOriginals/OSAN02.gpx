@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<gpx version="1.1"
+creator="Viking 1.10 -- http://viking.sf.net/"
+ xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v2" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v2 http://www.garmin.com/xmlschemas/TrackPointExtensionv2.xsd http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd">
+<trk>
+  <name>OSAN02</name>
+  <desc>Description:</desc>
+  <extensions><gpxx:TrackExtension><gpxx:DisplayColor>DarkGray</gpxx:DisplayColor></gpxx:TrackExtension></extensions>
+  <trkseg>
+  <trkpt lat="46.5898083714118" lon="-91.5066764782864">
+    <ele>362.431</ele>
+    <time>2026-05-04T14:54:18Z</time>
+  </trkpt>
+  <trkpt lat="46.5898099522139" lon="-91.5066342766076">
+    <ele>361.691</ele>
+    <time>2026-05-04T14:54:20Z</time>
+  </trkpt>
+  <trkpt lat="46.5898110674591" lon="-91.5065987521829">
+    <ele>362.144</ele>
+    <time>2026-05-04T14:54:22Z</time>
+  </trkpt>
+  <trkpt lat="46.5898129594019" lon="-91.5065539955386">
+    <ele>361.93</ele>
+    <time>2026-05-04T14:54:24Z</time>
+  </trkpt>
+  <trkpt lat="46.5898145844924" lon="-91.5065106114822">
+    <ele>361.716</ele>
+    <time>2026-05-04T14:54:26Z</time>
+  </trkpt>
+  <trkpt lat="46.589815714825" lon="-91.5064804357169">
+    <ele>361.553</ele>
+    <time>2026-05-04T14:54:29Z</time>
+  </trkpt>
+  </trkseg>
+</trk>
+</gpx>
