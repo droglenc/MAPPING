@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<gpx version="1.1"
+creator="Viking 1.10 -- http://viking.sf.net/"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<trk>
+  <name>RMALBF01</name>
+  <desc>Description:</desc>
+  <extensions><gpxx:TrackExtension><gpxx:DisplayColor>DarkCyan</gpxx:DisplayColor></gpxx:TrackExtension></extensions>
+  <trkseg>
+  <trkpt lat="40.30391271769781" lon="-105.63817021284905">
+    <ele>2868.52</ele>
+    <time>2026-09-10T21:25:31Z</time>
+  </trkpt>
+  <trkpt lat="40.30390811528353" lon="-105.6381534490427">
+    <ele>2865.96</ele>
+    <time>2026-09-10T21:25:50Z</time>
+  </trkpt>
+  <trkpt lat="40.30390197873065" lon="-105.63813534413185">
+    <ele>2866.17</ele>
+    <time>2026-09-10T21:26:02Z</time>
+  </trkpt>
+  <trkpt lat="40.3038999332129" lon="-105.63812126253453">
+    <ele>2864.78</ele>
+    <time>2026-09-10T21:26:27Z</time>
+  </trkpt>
+  <trkpt lat="40.30389584217721" lon="-105.63810047541466">
+    <ele>2864.65</ele>
+    <time>2026-09-10T21:26:42Z</time>
+  </trkpt>
+  <trkpt lat="40.30389226252078" lon="-105.63808907602635">
+    <ele>2864.95</ele>
+    <time>2026-09-10T21:26:57Z</time>
+  </trkpt>
+  <trkpt lat="40.3038885668784" lon="-105.638070573462">
+    <ele>2864.42</ele>
+    <time>2026-09-10T21:27:01Z</time>
+  </trkpt>
+  </trkseg>
+</trk>
+</gpx>
